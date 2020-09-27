@@ -1,0 +1,78 @@
+[
+    {
+      "Name": "Balkan Style Yogurt",
+      "Description": "6% M.F. traditional set style yogourt.",
+      "Price": 2.98,
+      "PictureUrl": "images/products/ABSY.jpg",
+      "ProductTypeId": 1,
+      "ProductBrandId": 3
+    },
+    {
+      "Name": "Unsalted Butter",
+      "Description": "Butter is the solid mass resulting from churning freshly separated, pasteurized cream. Product shall be smooth textured with a solid body, the moisture shall be well incorporated and its colour uniform and characteristic of the product.",
+      "Price": 4.47,
+      "PictureUrl": "images/products/NNUB.jpg",
+      "ProductTypeId": 4,
+      "ProductBrandId": 1
+    },
+    {
+      "Name": "Original Brick Cream Cheese",
+      "Description": "Philadelphia Original Cream Cheese product traces its roots back to 1872, and it has been the standard of high quality cream cheese ever since. Today, it still sets the bar high for what cream cheese should be and is perfect for adding creaminess to anything. Philadelphia Original soft cream cheese is the perfect spread on a bagel in the morning or on a cracker as part of your favourite snack",
+      "Price": 3.48,
+      "PictureUrl": "images/products/OBCC.jpg",
+      "ProductTypeId": 1,
+      "ProductBrandId": 2
+    },
+    {
+      "Name": "Activia Yogurt with Probiotics, Vanilla Flavour",
+      "Description": "Feel the rhythm everyday with Activia, a delicious and nutritious probiotic yogurt.Each serving of Activia contains 1 billion Bifidobacterium lactis bacteria, a probiotic that contributes to healthy intestinal flora.Activia is the No. 1 yogurt in Canada and is available in a variety of delicious flavours and a wide range of sizes and packs, so you’re sure to find the Activia that’s right for you.",
+      "Price": 3.38,
+      "PictureUrl": "images/products/DAAYPV.jpg",
+      "ProductTypeId": 1,
+      "ProductBrandId": 6
+    },
+    {
+      "Name": "Cheddar Cheese Thin Slices",
+      "Description": "Product Number: 21252564_EA",
+      "Price": 5.47,
+      "PictureUrl": "images/products/BDCCTS.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 2
+    },
+    {
+      "Name": "Cream Cheese Brick",
+      "Description": "Cream cheese in a brick format",
+      "Price": 2.00,
+      "PictureUrl": "images/products/CCB.png",
+      "ProductTypeId": 1,
+      "ProductBrandId": 3
+    },
+    {
+      "Name": "Homo Milk 3.25% Mf",
+      "Description": "Homo Milk has a full taste and delightful dairy flavour.",
+      "Price": 5.32,
+      "PictureUrl": "images/products/BHM.png",
+      "ProductTypeId": 2,
+      "ProductBrandId": 2
+    },
+    {
+        "Name": "Ice Milk, Chocolate",
+        "Description": "Product Number: 20793444001_EA",
+        "Price": 5.48,
+        "PictureUrl": "images/products/IMC.jpg",
+        "ProductTypeId": 2,
+        "ProductBrandId": 1
+      }
+   ,
+   {
+    "Name": "Evaporated Milk, 2%",
+    "Description": "No Name Evaporated Milk (2%)",
+    "Price": 1.28,
+    "PictureUrl": "images/products/EM.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  }
+
+
+    
+  ]
