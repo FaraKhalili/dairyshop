@@ -13,22 +13,27 @@ export class AppComponent implements OnInit {
 
   products: IProduct[];
 
-  constructor(private basketService: BasketService, private accountServeice: AccountService) {}
+  constructor(
+    private basketService: BasketService,
+    private accountServeice: AccountService
+  ) {}
 
   ngOnInit(): void {
     this.loadBasket();
     this.loadCurrentUser();
   }
 
-  loadCurrentUser(): void{
+  loadCurrentUser(): void {
     const token = localStorage.getItem('token');
-    if (token){
-      this.accountServeice.loadCurrentUser(token).subscribe(() => {
+
+    this.accountServeice.loadCurrentUser(token).subscribe(
+      () => {
         console.log('loaded user');
-      }, error => {
+      },
+      (error) => {
         console.log(error);
-      });
-    }
+      }
+    );
   }
 
   loadBasket(): void {
